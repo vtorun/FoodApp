@@ -8,7 +8,6 @@ async function loadMenu() {
   try {
     const menuData = await getMenu();
     renderMenu(menuData);
-    setupCategoryFilter(menuData);
   } catch (error) {
     console.error("Menu loading failed:", error);
   }

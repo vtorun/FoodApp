@@ -5,7 +5,7 @@ const renderMenu = (dataList) => {
   const menuListHtml = dataList
     .map(
       (data) => `<div class="menu-card" data-id="${data.id}">
-            <img src="${data.image}" alt="Burger Görseli" class="menu-img">
+            <img src="${data.image}" alt="Burger Görseli" class="menu-img" loading="lazy">
             <div class="menu-content">
                 <h3 class="menu-title">${data.name}</h3>
                 <p class="menu-desc">${data.description}</p>
