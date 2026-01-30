@@ -1,0 +1,124 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Klasik Kahvaltı Tabağı",
+      "description": "Zengin peynir tabağı, zeytinler ve taze fırın ürünleri ile tam bir başlangıç.",
+      "price": 220,
+      "category": "breakfast",
+      "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Meyveli Pankek",
+      "description": "Yaban mersini ve bal ile tatlandırılmış, kat kat lezzet.",
+      "price": 180,
+      "category": "breakfast",
+      "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Avokado Tost",
+      "description": "Ekşi maya ekmek üzerinde poşe yumurta ve taze avokado dilimleri.",
+      "price": 195,
+      "category": "breakfast",
+      "image": "https://images.pexels.com/photos/566566/pexels-photo-566566.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Omlet Tabağı",
+      "description": "Mevsim sebzeleri ve kaşar peyniri ile hazırlanan sıcak servis.",
+      "price": 145,
+      "category": "breakfast",
+      "image": "https://images.pexels.com/photos/6294399/pexels-photo-6294399.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Kuruvasan Menü",
+      "description": "Tereyağlı taze kuruvasan, yanında reçel ve tereyağı ile.",
+      "price": 130,
+      "category": "breakfast",
+      "image": "https://images.pexels.com/photos/2135/food-france-morning-breakfast.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Double Cheeseburger",
+      "description": "Çift köfte, bol cheddar ve çıtır patates kızartması eşliğinde.",
+      "price": 280,
+      "category": "lunch",
+      "image": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Barbekü Tavuk Pizza",
+      "description": "İnce hamur, özel barbekü sos ve ızgara tavuk parçaları.",
+      "price": 240,
+      "category": "lunch",
+      "image": "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Sezar Salata",
+      "description": "Izgara tavuk göğsü, kruton ve özel Sezar soslu marullar.",
+      "price": 210,
+      "category": "lunch",
+      "image": "https://images.pexels.com/photos/1213710/pexels-photo-1213710.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Penne Arrabbiata",
+      "description": "Acılı domates sosu, siyah zeytin ve parmesan peyniri.",
+      "price": 190,
+      "category": "lunch",
+      "image": "https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Izgara Köfte",
+      "description": "Közlenmiş biber, domates ve pilav eşliğinde anne köftesi.",
+      "price": 265,
+      "category": "lunch",
+      "image": "https://images.pexels.com/photos/2232433/pexels-photo-2232433.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Çilekli Smoothie",
+      "description": "Taze çilek ve yoğurt ile hazırlanan enerji deposu.",
+      "price": 115,
+      "category": "shakes",
+      "image": "https://images.pexels.com/photos/103566/pexels-photo-103566.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Iced Americano",
+      "description": "Soğuk su ve çift shot espresso ile ferahlatıcı kahve.",
+      "price": 85,
+      "category": "shakes",
+      "image": "https://images.pexels.com/photos/2615323/pexels-photo-2615323.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Mango Milkshake",
+      "description": "Egzotik mango aroması ve kremsi doku.",
+      "price": 120,
+      "category": "shakes",
+      "image": "https://images.pexels.com/photos/3625372/pexels-photo-3625372.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Limonata",
+      "description": "Ev yapımı taze nane yapraklı ferahlatıcı limonata.",
+      "price": 75,
+      "category": "shakes",
+      "image": "https://images.pexels.com/photos/2109099/pexels-photo-2109099.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Sıcak Çikolata",
+      "description": "Üzerinde marshmallow parçaları ile yoğun çikolata keyfi.",
+      "price": 90,
+      "category": "shakes",
+      "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg"
+    }
+  ]
+}

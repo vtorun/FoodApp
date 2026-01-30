@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QR Menü</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1>Restoran Dijital Menü</h1>
+      <p>QR Kod ile açıldı — Örnek Menü</p>
+    </header>
+    <!-- * Kategoriler -->
+    <div id="buttons" class="d-flex justify-content-center gap-3">
+      <div>
+        <label for="all">Hepsi</label>
+        <input type="radio" name="cat" id="all" checked />
+      </div>
+      <div>
+        <label for="breakfast">Kahvaltı</label>
+        <input type="radio" name="cat" id="breakfast" />
+      </div>
+      <div>
+        <label for="lunch">Öğle Yemeği</label>
+        <input type="radio" name="cat" id="lunch" />
+      </div>
+      <div>
+        <label for="shakes">İçecekler</label>
+        <input type="radio" name="cat" id="shakes" />
+      </div>
+    </div>
+    <main class="menu-container">
+      <!-- Menü Kartı #1 -->
+      <!-- <div class="menu-card">
+            <img src="https://via.placeholder.com/300x200" alt="Burger Görseli" class="menu-img">
+            <div class="menu-content">
+                <h3 class="menu-title">Cheeseburger</h3>
+                <p class="menu-desc">Lezzetli dana burger, cheddar peynir, taze marul, özel sos.</p>
+                <span class="menu-price">₺120</span>
+            </div>
+        </div> -->
+    </main>
+
+    <footer class="footer">
+      <p>© 2026 Dijital QR Menü</p>
+    </footer>
+    <script src="./js/main.js" type="module"></script>
+  </body>
+</html>
